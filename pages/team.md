@@ -1,9 +1,8 @@
 ---
 layout: team
 title: Team
-description: Who we are
+description: Meet the kFLOW team!
 permalink: /team/
+background: /assets/img/university__eurecom.jpeg
 ---
-
-On this page you can list team members by defining them in [`_data/team.yml`](https://github.com/peterdesmet/petridish/blob/master/_data/team.yml).
-
+<!-- Content here would shop up above your list of people -->

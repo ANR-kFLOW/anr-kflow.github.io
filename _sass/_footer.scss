@@ -34,5 +34,12 @@ body > footer {
         content: " — ";
       }
     }
-  } 
+  }
+
+  // logos
+  img {
+    max-width: 90%;
+    width: 150px;
+    margin: 5px 10px;
+  }
 }

@@ -1,24 +1,34 @@
 # Project team members listed below will appear on the /team page
 
-- name: Philip J. Fry
-  role: Delivery boy # Will appear next to name
-  image: assets/img/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
+- name: Pasquale Lisena
+  role: Project Coordinator
+  image: https://pbs.twimg.com/profile_images/1479474385090142213/t2LttOrX_400x400.jpg
   description: > # Can be Markdown
-    Protagonist, from the 20th century. Many times great-uncle to Professor Hubert Farnsworth.
-  orcid: 0000-0000-0000-0000
-  email: your.email@example.com
-  github: github_name
-  twitter: twitter_name
+    Research fellow, Data Science Department, EURECOM
+  orcid: 0000-0003-3094-5585
+  email: pasquale.lisena@eurecom.fr
+  github: pasqLisena
+  twitter: pasqLisena
+  site: https://www.eurecom.fr/~lisena/
 
-- name: Turanga Leela
-  role: Captain
-  image: assets/img/leela_artem-kovalev-1403404-unsplash.jpg
+- name: Paolo Papotti
+  role:
+  image: https://pbs.twimg.com/profile_images/1257939488141193216/HdT95Nt7_400x400.jpg
   description: >
-    Mutant cyclops. Leela is spaceship captain, pilot, and head of all 
-    aviation services on board the [Planet Express Ship](https://en.wikipedia.org/wiki/Planet_Express_Ship). 
+    Associate Professor, Data Science Department, EURECOM
+  orcid: 0000-0003-0651-4128
+  # email: paolo.papotti@eurecom.fr
+  github: paolopapotti
+  twitter: paolopapotti
+  site: https://www.eurecom.fr/~papotti/
 
-- name: Professor Hubert J. Farnsworth
-  role: CEO & Owner
-  image: assets/img/farnsworth_angelo-abear-1662775-unsplash.jpg
+- name: Raphaël Troncy
+  role:
+  image: https://pbs.twimg.com/profile_images/458965276285878272/SZ7b6HyG_400x400.jpeg
   description: >
-    Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).
+    Associate Professor, Data Science Department, EURECOM
+  orcid: 0000-0003-0457-1436
+  email: raphael.troncy@eurecom.fr
+  github: rtroncy
+  twitter: rtroncy
+  site: https://www.eurecom.fr/~troncy/

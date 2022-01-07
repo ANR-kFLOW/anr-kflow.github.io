@@ -21,7 +21,7 @@ description: Template for team page
       <ul class="list-inline">
         {% if member.orcid %}
         <li class="list-inline-item">
-          <a href="https://orcid.org/{{ member.orcid }}"><img class="orcid" src="{{ '/assets/theme/img/orcid.png' | relative_url }}"></a>
+          <a rel="external" target="_blank" href="https://orcid.org/{{ member.orcid }}"><img class="orcid" src="{{ '/assets/theme/img/orcid.png' | relative_url }}"></a>
         </li>
         {% endif %}
 
@@ -33,17 +33,22 @@ description: Template for team page
 
         {% if member.twitter %}
         <li class="list-inline-item">
-          <a href="https://twitter.com/{{ member.twitter }}"><i class="fa fa-twitter"></i></a>
+          <a rel="external" target="_blank" href="https://twitter.com/{{ member.twitter }}"><i class="fa fa-twitter"></i></a>
         </li>
         {% endif %}
 
         {% if member.github %}
         <li class="list-inline-item">
-          <a href="https://github.com/{{ member.github }}"><i class="fa fa-github"></i></a>
+          <a rel="external" target="_blank" href="https://github.com/{{ member.github }}"><i class="fa fa-github"></i></a>
+        </li>
+        {% endif %}
+
+        {% if member.site %}
+        <li class="list-inline-item">
+          <a rel="external" target="_blank" href="{{ member.site }}"><i class="fa fa-globe"></i></a>
         </li>
         {% endif %}
       </ul>
     </div>
   </div>
 {% endfor %}
-

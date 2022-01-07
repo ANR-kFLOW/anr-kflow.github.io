@@ -1,6 +1,6 @@
 // Jumbotron
-
-.jumbotron {
+body > main {
+header.jumbotron {
   // background-image: set in page frontmatter
   background-position: center;
   background-repeat: no-repeat;
@@ -9,6 +9,10 @@
   color: $white;
   position: relative; // To contain overlay
   text-align: center;
+
+  &.bg-image:before {
+    background-image: linear-gradient(rgba(52, 58, 64, 0.1), rgba($custom_banner_color, 0.9)) !important;
+  }
 
   &.bg-no-image {
     background-color: theme-color("secondary");
@@ -30,7 +34,7 @@
   a:visited {
     color: $white;
   }
-  
+
   h1 {
     $jumbotron-h1: 3.5rem;
     font-size: $jumbotron-h1;
@@ -68,9 +72,10 @@
       margin-right: -0.25rem;
     }
   }
-  
+
   // Use light colored badge border when jumbotron has no background-image
   &.bg-no-image .badge {
     border: 2px solid lighten(theme-color("secondary"), 25);
   }
+}
 }
