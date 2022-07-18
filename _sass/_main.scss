@@ -26,7 +26,7 @@ body > main {
 		}
 		&:last-of-type {
 			&:after {
-				content: non;
+				content: none;
 			}
 		}
 	}
