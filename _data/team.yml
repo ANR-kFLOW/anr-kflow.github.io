@@ -11,6 +11,15 @@
   twitter: pasqLisena
   site: https://www.eurecom.fr/~lisena/
 
+- name: Youssra Rebboud
+  image: https://www.eurecom.fr/sites/default/files/images/people/rebboud-youssra.jpg
+  description: > # Can be Markdown
+    PhD Student, Data Science Department, EURECOM
+  orcid: 0000-0003-3507-5646
+  email: youssra.rebboud@eurecom.fr
+  github: RYoussra
+
+
 - name: Paolo Papotti
   role:
   image: https://pbs.twimg.com/profile_images/1257939488141193216/HdT95Nt7_400x400.jpg
