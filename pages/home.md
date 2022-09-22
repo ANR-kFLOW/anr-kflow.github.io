@@ -7,7 +7,7 @@ permalink: /
 ---
 
 {: .alert .alert-info}
-**Latest News**: The ANR kFLOW project started on January 2022.
+**Latest News**: EKAW team will be at EKAW 2022.
 
 Human History is composed of a **continuous flow of events**. Each of them can impact subsequent events and contribute to the evolution of human knowledge.
 
