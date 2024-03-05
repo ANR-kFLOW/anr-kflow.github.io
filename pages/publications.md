@@ -7,7 +7,7 @@ permalink: /publications/
 
 #### 2024
 
-- de Kok, M., [Rebboud Y.](https://ryoussra.github.io/), Lisena P., [Troncy R.](http://www.eurecom.fr/~troncy/) & [Tiddi, I.](https://kmitd.github.io/ilaria/) **Prompt-based Data Augmentation for Semantically-Precise Event Relation Classification**. In *Seventh International Workshop on Narrative Extraction from Texts ([Text2Story](https://text2story24.inesctec.pt/))*, colocated with [ECIR 2024](https://www.ecir2024.org/), March 24th, 2024, Glasgow, UK
+- de Kok, M., [Rebboud Y.](https://ryoussra.github.io/), Lisena P., [Troncy R.](http://www.eurecom.fr/~troncy/) & [Tiddi, I.](https://kmitd.github.io/ilaria/) **From Nodes to Narratives: A Knowledge Graph-based Storytelling Approach**. In *Seventh International Workshop on Narrative Extraction from Texts ([Text2Story](https://text2story24.inesctec.pt/))*, colocated with [ECIR 2024](https://www.ecir2024.org/), March 24th, 2024, Glasgow, UK
 
 #### 2023
 
